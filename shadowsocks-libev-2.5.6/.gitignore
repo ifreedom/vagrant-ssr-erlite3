@@ -1,0 +1,8 @@
+debian/shadowsocks-libev/
+debian/patches/
+debian/files
+debian/shadowsocks-libev.substvars
+debian/*.debhelper*
+
+bin/
+lib/

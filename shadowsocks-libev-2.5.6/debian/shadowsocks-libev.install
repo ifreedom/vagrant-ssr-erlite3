@@ -1,0 +1,3 @@
+bin/* usr/bin/
+lib/* usr/lib/
+debian/shadowsocks.json etc
